@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "DATKMSrymVL6ypOROruSK8NQSgroWDMHsv7WP1u54FQ2sh+F7C7NmvYH739r4p1xy9ecqYdxzNOizQgy78j21A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrey\\Desktop\\Новая папка (2)\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\oits.configuration\\1.5.1\\oits.configuration.1.5.1.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\oits.web.profile\\1.0.3\\oits.web.profile.1.0.3.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\restsharp\\110.2.1-alpha.0.16\\restsharp.110.2.1-alpha.0.16.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andrey\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Oits.Configuration 1.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Oits.Configuration",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Oits.Web.Profile 1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Oits.Web.Profile",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

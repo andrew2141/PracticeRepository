@@ -1,0 +1,30 @@
+D:\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+D:\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+D:\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+D:\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+D:\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+D:\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp4\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll

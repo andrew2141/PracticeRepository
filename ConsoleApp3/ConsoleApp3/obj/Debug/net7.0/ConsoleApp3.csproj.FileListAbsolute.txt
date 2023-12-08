@@ -1,0 +1,30 @@
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\Новая папка (2)\ConsoleApp3\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll

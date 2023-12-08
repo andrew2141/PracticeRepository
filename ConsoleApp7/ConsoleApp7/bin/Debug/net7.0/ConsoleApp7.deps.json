@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp7/1.0.0": {
+        "dependencies": {
+          "Oits.Web.Profile": "1.0.3",
+          "RestSharp": "110.2.1-alpha.0.16"
+        },
+        "runtime": {
+          "ConsoleApp7.dll": {}
+        }
+      },
+      "Oits.Configuration/1.5.1": {
+        "runtime": {
+          "lib/net45/Oits.Configuration.dll": {
+            "assemblyVersion": "1.5.1.0",
+            "fileVersion": "1.5.1.0"
+          }
+        }
+      },
+      "Oits.Web.Profile/1.0.3": {
+        "dependencies": {
+          "Oits.Configuration": "1.5.1"
+        },
+        "runtime": {
+          "lib/net45/Oits.Web.Profile.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "RestSharp/110.2.1-alpha.0.16": {
+        "dependencies": {
+          "System.Text.Json": "7.0.3"
+        },
+        "runtime": {
+          "lib/net7.0/RestSharp.dll": {
+            "assemblyVersion": "110.2.1.0",
+            "fileVersion": "110.2.1.0"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {},
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oits.Configuration/1.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IQ9zSc3graZdggz8nij5wIV7c7Bmt7W59kpkrwRaZDqIWNMyfmTA0fEsSR4Voqr67hilMs5KsWmL2pO7Odmq+w==",
+      "path": "oits.configuration/1.5.1",
+      "hashPath": "oits.configuration.1.5.1.nupkg.sha512"
+    },
+    "Oits.Web.Profile/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lq+aHUid2cDGhFFCChtpKDADI8P9hjB72dzhAhVMtTPVM7yT6R+K5FsrEqR//KBTf8ySX2epoQIOL5qitaaEvg==",
+      "path": "oits.web.profile/1.0.3",
+      "hashPath": "oits.web.profile.1.0.3.nupkg.sha512"
+    },
+    "RestSharp/110.2.1-alpha.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3+Nb8GEeWwYCx+DTb7t+msz7CZBFiInE7Ejd4a2iivqTTP/BhNB3vpXibK5NKLUHsn0z6MDFxVhzPNaXaT5yCA==",
+      "path": "restsharp/110.2.1-alpha.0.16",
+      "hashPath": "restsharp.110.2.1-alpha.0.16.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
+    }
+  }
+}
