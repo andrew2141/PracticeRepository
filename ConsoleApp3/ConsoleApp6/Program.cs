@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args)  // Лабораторная 4 задание 6
     {
         Console.WriteLine("Введите a: ");
         double a = Int32.Parse(Console.ReadLine());
