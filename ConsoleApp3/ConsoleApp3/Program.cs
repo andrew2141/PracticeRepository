@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        Console.Write("Введите число: ");
+        Console.Write("Введите число: ");  // Лабораторная 4 задание 1
         int number = Int32.Parse(Console.ReadLine());
 
         int product = 1;
