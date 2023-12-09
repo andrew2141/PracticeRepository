@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args)    //Лабораторная 6 задание 3
     {
         Console.WriteLine("Введите число: ");
         int number = Convert.ToInt32(Console.ReadLine());
