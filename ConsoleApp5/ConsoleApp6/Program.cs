@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) // Лабораторная 6 задание 6
     {
         Random random = new Random();
         
