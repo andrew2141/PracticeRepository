@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args)  // Лабораторная 5 задание 2
     {
         string[] lines = File.ReadAllText(@"D:\ConsoleApp4\ConsoleApp1\bin\Debug\net7.0\numsTask2 (2).txt").Split(';');
         float[] numbers = Array.ConvertAll(lines, float.Parse);
