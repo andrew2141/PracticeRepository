@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args)    // Лабораторная 3 задание 1
     {
         try
         {
